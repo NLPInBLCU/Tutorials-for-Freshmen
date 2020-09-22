@@ -1,7 +1,7 @@
 ---
 title: Tutorials for 246 Freshmen
 created: '2020-09-22T01:46:26.445Z'
-modified: '2020-09-22T03:28:10.591Z'
+modified: '2020-09-22T10:17:08.453Z'
 ---
 
 # Tutorials for 246 Freshmen
@@ -30,7 +30,7 @@ modified: '2020-09-22T03:28:10.591Z'
 
 1. 掌握基本的语法,学会使用函数处理问题,学习 pip 包管理
 2. 学会使用 conda 管理虚拟环境, 学习Python面向对象,掌握多态,虚基类,重载等等
-3. 了解 PEP8,掌握 Type Hints 并熟练使用,学会常见的 Pyhton 代码格式化和静态检查工具
+3. 了解 PEP8,掌握 Type Hints 并熟练使用,学会常见的 Pyhton 代码格式化和静态检查工具,掌握 debug
 4. 掌握 docker 和 wheel 包分发机制
 5. 学习掌握 http 服务框架(flask,fastapi,...)
 6. 了解常用的 CI/CD 工具
