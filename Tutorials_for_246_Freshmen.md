@@ -72,7 +72,7 @@ modified: '2020-09-22T03:28:10.591Z'
 
 **Refs:**
 
-+ [Linux 资源管理常用命令](./Linux 服务器资源管理.md) 
++ [Linux 资源管理常用命令](linux_resources_manage.md) 
 + [jaywcjlove/linux-command: Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 + [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
 + [图书:The Linux Command Line by William Shotts](http://linuxcommand.org/tlcl.php)
