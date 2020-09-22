@@ -100,7 +100,7 @@ modified: '2020-09-22T03:28:10.591Z'
 
 ==**What is the difference between Unix, Linux, BSD and GNU?**==
 
-![Unix genealogy diagram](./Tutorials for 246 Freshmen.assets/Unix_timeline.en.svg)
+![Unix genealogy diagram](Tutorials for 246 Freshmen.assets/Unix_timeline.en.svg)
 
 ## 2. 信息获取能力
 
