@@ -368,5 +368,21 @@ Medium, 知乎专栏, 博客网
 + [huggingface/transformers: 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.](https://github.com/huggingface/transformers)
 + [pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
 
+## 6.职业规划
 
+### 6.1 求职方向:
+
++ NLP 算法工程师
++ NLP 算法研究员
++ 其他算法工程师
++ 开发
++ 产品经理
++ 其他非技术行业
+
+### 6.2 建议
+
++ 早刷题, 早看笔试面试经验
++ 早实习, 争取大厂实习机会,正确实习转正机会
++ 能内推就内推, 能提前批就提前批
++ 换行要乘早
 
