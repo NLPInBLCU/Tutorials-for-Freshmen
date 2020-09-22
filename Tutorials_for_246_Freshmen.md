@@ -100,7 +100,7 @@ modified: '2020-09-22T03:28:10.591Z'
 
 ==**What is the difference between Unix, Linux, BSD and GNU?**==
 
-![Unix genealogy diagram](Tutorials for 246 Freshmen.assets/Unix_timeline.en.svg)
+![Unix genealogy diagram](Tutorials_for_246_Freshmen.assets/Unix_timeline.en.svg)
 
 ## 2. 信息获取能力
 
@@ -230,25 +230,25 @@ Medium, 知乎专栏, 博客网
 
 常用的搜索引擎都支持**`高级搜索`**功能(包括但不限于 `站内搜索`,`文件搜索`,`反向搜索`...),可以通过相关语法或者进入高级搜索触发:
 
-![image-20200922145136536](Tutorials for 246 Freshmen.assets/image-20200922145136536.png)
+![image-20200922145136536](Tutorials_for_246_Freshmen.assets/image-20200922145136536.png)
 
 #### 2.4.2 英文描述问题
 
 搜索引擎输入中文,搜索一个技术问题:
 
-![image-20200922151115378](Tutorials for 246 Freshmen.assets/image-20200922151115378.png)
+![image-20200922151115378](Tutorials_for_246_Freshmen.assets/image-20200922151115378.png)
 
 打开排名第一的结果,发现根本不是人话:
 
-![image-20200922151210629](Tutorials for 246 Freshmen.assets/image-20200922151210629.png)
+![image-20200922151210629](Tutorials_for_246_Freshmen.assets/image-20200922151210629.png)
 
 对比发现,这实际是直接机器翻译了 Stack Overflow 的问答:
 
-![image-20200922151254264](Tutorials for 246 Freshmen.assets/image-20200922151254264.png)
+![image-20200922151254264](Tutorials_for_246_Freshmen.assets/image-20200922151254264.png)
 
 如果直接使用英文搜索的话,会发现直接就能搜索到想要的答案:
 
-![image-20200922151335399](Tutorials for 246 Freshmen.assets/image-20200922151335399.png)
+![image-20200922151335399](Tutorials_for_246_Freshmen.assets/image-20200922151335399.png)
 
 **在搜索结果中屏蔽网站:**
 
