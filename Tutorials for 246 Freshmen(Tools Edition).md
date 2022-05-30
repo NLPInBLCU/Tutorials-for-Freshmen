@@ -18,11 +18,15 @@ Update Time: 2022-09-01
  - paddleNLP
  - transformers
  - hanlp/jieba
+ - scikit-learn
 
 - 算法工具
   - Netron
   - SnippetsLab
-
+  - wandb
+  - terminal
+  - stack overflow
+  - GitHub
 #### 编程工具相关
 - 部署工具
   - docker
@@ -30,9 +34,6 @@ Update Time: 2022-09-01
 - 版本控制工具
   - git
   - SVN
-
-- CI/CD工具
-  - jenkins
 
 #### 编程能力培养
 - 大数据相关组件
@@ -44,19 +45,30 @@ Update Time: 2022-09-01
   - Flink
   - Redis
 
+- CI/CD工具
+  - jenkins
 
 ## 论文部分
 #### 文献阅读及检索相关
 - Paper
   - ACL anthology
   - Arxiv
+  - google scholar
+  - researchgate
+  - zhihu
   - 
 
 - 文献管理工具
   - mendeley
-  - 
+  - zotero
+  - EndNote
+  - ivySCI
 
 - 相关笔记工具
+  - obsidian
+  - notion
+  - feishu
+  - 语雀
 
 #### 论文写作工具及方法相关
 - LaTex VS markdown
